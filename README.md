@@ -1,7 +1,7 @@
 # -Yahoo-
 ## Breve búsqueda acerca de Yahoo!
 
-## Información básica 
+Información básica 
 |Datos|Informacion|
 |:----------:|:----------:|
 |Fecha de creación |Enero de 1994|

@@ -1,7 +1,7 @@
 # -Yahoo-
 ## Breve búsqueda acerca de Yahoo!
 
-|Información básica|
+|Información básica|Yahoo|
 |:----------:|:----------:|
 |Fecha de creación |Enero de 1994|
 |Nombre de los creadores |David Filo y Jerry Yang|

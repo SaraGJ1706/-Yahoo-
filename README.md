@@ -1,7 +1,7 @@
 # -Yahoo-
 ## Breve búsqueda acerca de Yahoo!
 
-*Introducción:*
+**Introducción:**
 
 - Yahoo! es un motor grafico que organiza la información en la web.
 

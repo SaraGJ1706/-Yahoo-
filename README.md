@@ -5,6 +5,8 @@
 
 - Yahoo! es un motor grafico que organiza la información en la web.
 
+![Yahoo pagina de inicio](https://github.com/SaraGJ1706/-Yahoo-/blob/main/Yahoo%20pagina%20de%20inicio.png)
+
 **Información básica**
 |Datos|Informacion|
 |:----------:|:----------:|

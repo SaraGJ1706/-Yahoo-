@@ -18,11 +18,7 @@
 
 - Era una de las principales empresas del sector de internet que dispone de buscador propio, servicios relacionados con el correo electrónico, noticias, tiempo, etc. Esta se llego a considerar como gran compañía pionera antes de la explosión de Google.
 
-**2. Historia resumida de Yahoo!:**
-
-- La idea de crear **Yahoo** surgió de dos estudiantes de Standford, *David Filo y Jerry Yang*. Estos crearon un directorio de pagina de internet en *1994*, el cual resulto un éxito, lo que llevo a 1995 crear la empresa **Yahoo**. Esta empezó a crecer a lo largo de la época de los 90, dicho crecimiento fue frenado por el éxito de Google. Llegados a Febrero de 2008 rechazo una oferta de compre por Microsoft de un valor aproximado de *44.600 millones de dólares*, con el argumento de que era un precio demasiado bajo, convirtiendo esta oferta rechazada como uno de los *mayores errores históricos.*
-
-**3. Servicios que ofrece Yahoo!:**
+**2. Servicios que ofrece Yahoo!:**
 
 - **Yahoo! Mail:** Servicio de correo con almacenamiento ilimitado.
 

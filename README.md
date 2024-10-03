@@ -25,6 +25,7 @@
 **3. Servicios que ofrece Yahoo!:**
 
 - **Yahoo! Mail:** Servicio de correo con almacenamiento ilimitado.
+
 ![Yahoo mail](https://github.com/SaraGJ1706/-Yahoo-/blob/main/Yahoo%20mail.png)
 
 - **Yahoo! Messenger:** Sistema de mensajería gratuito que permite el intercambio de textos y archivos.

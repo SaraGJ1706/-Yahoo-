@@ -23,8 +23,8 @@
 **3. Servicios que ofrece Yahoo!:**
 
 - **Yahoo! Mail:** Servicio de correo con almacenamiento ilimitado.
-- **Yahoo! Messanger:** Sistema de mensajería gratuito que permite el intercambio de textos y archivos.
-- **Fickr:** Repositorio de Fotos y videos.
+- **Yahoo! Messenger:** Sistema de mensajería gratuito que permite el intercambio de textos y archivos.
+- **Flickr:** Repositorio de Fotos y videos.
 - **Yahoo! Grupos:** Se considera un hibrido entre una lista de correos y un foro.
 - **Yahoo! Respuestas:** Sitio de preguntas y respuestas llevado por usuarios.
 

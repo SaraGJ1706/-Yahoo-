@@ -21,20 +21,10 @@
 **2. Servicios que ofrece Yahoo!:**
 
 - **Yahoo! Mail:** Servicio de correo con almacenamiento ilimitado.
-
-![Yahoo mail](https://github.com/SaraGJ1706/-Yahoo-/blob/main/Yahoo%20mail.png)
-
 - **Yahoo! Messenger:** Sistema de mensajería gratuito que permite el intercambio de textos y archivos.
-![Yahoo Messenger](https://github.com/SaraGJ1706/-Yahoo-/blob/main/Messanger.gif)
-
 - **Flickr:** Repositorio de Fotos y videos.
-![Flickrs](https://github.com/SaraGJ1706/-Yahoo-/blob/main/flocker.jpg)
-
 - **Yahoo! Grupos:** Se considera un hibrido entre una lista de correos y un foro.
-![Grupos](https://github.com/SaraGJ1706/-Yahoo-/blob/main/grupos.jpg)
-
 - **Yahoo! Respuestas:** Sitio de preguntas y respuestas llevado por usuarios.
-![Respuetas](https://github.com/SaraGJ1706/-Yahoo-/blob/main/respuestas.jpg)
 
 
  

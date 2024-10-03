@@ -3,7 +3,7 @@
 
 *Introducción:*
 
-- Yahoo! es una empresa de tecnología que cuanta con sedes en Estados Unidos...
+- Yahoo! es un motor grafico que organiza la información en la web.
 
 **Información básica**
 |Datos|Informacion|
@@ -23,9 +23,9 @@
 **3. Servicios que ofrece Yahoo!:**
 
 - **Yahoo! Mail:** Servicio de correo con almacenamiento ilimitado.
-- **Yahoo! Messanger:** Sistema de mensajeria gratuito que permite el intercambio d etextos y archivos.
+- **Yahoo! Messanger:** Sistema de mensajería gratuito que permite el intercambio de textos y archivos.
 - **Fickr:** Repositorio de Fotos y videos.
 - **Yahoo! Grupos:** Se considera un hibrido entre una lista de correos y un foro.
-- **Yahoo! Respuestas:** Sitio de preguntas y respuestas llevado pr usuarios.
+- **Yahoo! Respuestas:** Sitio de preguntas y respuestas llevado por usuarios.
 
  
